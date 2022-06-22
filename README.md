@@ -1,3 +1,14 @@
+Projet réalisé dans le cadre du test technique en vue d'une alternance pour agile
+
+Utilisation du typescript (Cards.tsx)
+
+Utilisation d'une CRA (create react app)
+
+Utilisation d'une librairie UI (Material UI React)
+
+Utilisation de States (local pour stockage api et pour gestion d'un bouton favoris)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
